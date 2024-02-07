@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "media"
+title: "Media"
 permalink: /media/
 author_profile: true
 ---
