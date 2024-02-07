@@ -8,4 +8,4 @@ date: 2023-11-29
 location: "Semenyih, Selangor, Malaysia"
 ---
 
-[Presentation-slide.pdf](http://hansonchongzz.github.io/files/2023-11-29-nse-research-seminar.pdf)
+[Presentation-slides.pdf](http://hansonchongzz.github.io/files/2023-11-29-nse-research-seminar.pdf)
