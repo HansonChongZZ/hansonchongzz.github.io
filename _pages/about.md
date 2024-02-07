@@ -16,4 +16,4 @@ You can read more about my work in the [publications](https://hansonchongzz.gith
 
 My interests are in social network analysis and causal inference. 
 
-Beyond my academic work, I founded a student non-profit called [The EMPOWER Initiative](https://www.instagram.com/user/m_pwr_) to tackle the lack of college readiness in Malaysia. 
+Beyond my academic work, I founded a student non-profit called [The EMPOWER Initiative](https://www.instagram.com/m_pwr_) to tackle the lack of college readiness in Malaysia. 
