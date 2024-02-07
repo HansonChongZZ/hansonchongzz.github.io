@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Hanson Chong"
   avatar           : "avatar.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Economics Researcher"
   location         : "Kuala Lumpur, Malaysia"
-  employer         :
+  employer         : "Institute of Strategic and International Studies (ISIS) Malaysia"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : "http://scholar.google.com/citations?user=oZrPq_YAAAAJ&hl=en&oi=sra"
+  email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "HansonChongZZ"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0009-8581-767X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "hanson_czz"
   vine             :
   weibo            :
   xing             :
