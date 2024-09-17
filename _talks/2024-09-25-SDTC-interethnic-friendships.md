@@ -1,11 +1,11 @@
 ---
-title: "Unconditional cash transfers and child schooling: a meta-analysis"
+title: "Interethnic friendships under ethnically segregated education pathways: the case of Malaysia"
 collection: talks
 type: "Talk"
-permalink: /talks/2023-11-29-nse-research-seminar
-venue: "Universty of Nottingham Malaysia, School of Economics"
-date: 2023-11-29
-location: "Semenyih, Selangor, Malaysia"
+permalink: /talks/2024-09-25-SDTC-interethnic-friendships
+venue: "Monash University Indonesia"
+date: 2024-09-25
+location: "Jakarta, Indonesia"
 ---
 
-[Presentation-slides.pdf](http://hansonchongzz.github.io/files/2023-11-29-nse-research-seminar.pdf)
+[Presentation-slides.pdf](http://hansonchongzz.github.io/files/2024-09-25-SDTC-interethnic-friendships.pdf)
