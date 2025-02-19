@@ -12,4 +12,5 @@ Various “demand-side” interventions have been found effective empirically to
 
 [Download a copy of the paper here](https://mpra.ub.uni-muenchen.de/121778/1/MPRA_paper_121778.pdf)
 
-Recommended citation: Chong, Z.Z. and Lau, S.Y. (2024). Unconditional cash transfers and child schooling: a meta-analysis. Empirical Economics. [https://doi.org/10.1007/s00181-024-02647-3](https://doi.org/10.1007/s00181-024-02647-3)
+Recommended citation: Chong, Z.Z. and Lau, S.Y. (2024) Unconditional cash transfers and child schooling: A meta-analysis. Empirical Economics, 68(2), pp. 639–666. doi:10.1007/s00181-024-02647-3. 
+
