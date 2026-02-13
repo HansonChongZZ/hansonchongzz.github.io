@@ -9,3 +9,5 @@ main:
   - title: "CV"
     url: /files/cv.pdf
 
+  - title: "tool"
+    url: /tool/
